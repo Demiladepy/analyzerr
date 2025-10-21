@@ -212,7 +212,7 @@ Deletes a string from the system.
 curl -X DELETE http://localhost:3000/strings/hello%20world
 ```
 
-### Legacy Endpoint
+
 
 #### GET /me
 
